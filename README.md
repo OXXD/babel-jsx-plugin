@@ -49,7 +49,7 @@ module.exports = function (babel) {
 
 ```javascript
 {
-  "plugins": ["jsx-plugin", "./jsx-parser"]
+  "plugins": ["./jsx-plugin", "./jsx-parser"]
 }
 ```
 
